@@ -1,0 +1,15 @@
+{
+  "name": "Symbol",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Packages": {
+        "$className": "Folder",
+        "Symbol": {
+          "$path": "src"
+        }
+      }
+    }
+  }
+}
